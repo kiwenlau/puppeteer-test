@@ -1,12 +1,11 @@
-# Puppeteer Test
+# run puppeteer script exported from chrome devtools recorder
+
 
 - use chrome devtools recorder to record google search
 
 check this video: [https://www.bilibili.com/video/BV1BP4y1n7yS/](https://www.bilibili.com/video/BV1BP4y1n7yS/)
 
-- export puppeteer script
-
-
+- exported script: [search.js](https://github.com/kiwenlau/puppeteer-test/blob/main/search.js)
 
 - run puppeteer script, but failed
 
